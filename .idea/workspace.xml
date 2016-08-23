@@ -556,7 +556,7 @@
       <workItem from="1471803972774" duration="280000" />
       <workItem from="1471882760674" duration="3267000" />
       <workItem from="1471886401241" duration="1255000" />
-      <workItem from="1471966855920" duration="6459000" />
+      <workItem from="1471966855920" duration="6509000" />
     </task>
     <task id="LOCAL-00001" summary="Rspec aliluya">
       <created>1471969319941</created>
@@ -572,11 +572,18 @@
       <option name="project" value="LOCAL" />
       <updated>1471969332116</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finish layout and routes">
+      <created>1471973355697</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1471973355697</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13377000" />
+    <option name="totallyTimeSpent" value="13427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1600" height="875" extended-state="6" />
@@ -633,7 +640,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Rspec aliluya" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rspec aliluya" />
+    <MESSAGE value="Finish layout and routes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish layout and routes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
