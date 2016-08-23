@@ -1,10 +1,10 @@
 require 'rails_helper'
 require 'support/utilities'
 
-RSpec.describe "UserPages", type: :request do
+RSpec.describe 'UserPages', type: :request do
   subject { page }
 
-  describe "Sign Up page" do
+  describe 'Sign Up page' do
     before { visit user_new_path }
 
     it { should have_content('Sign up') }
