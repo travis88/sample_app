@@ -14,6 +14,7 @@
 #  $ ln -s config/Guardfile .
 #
 # and, you'll have to watch "config/Guardfile" instead of "Guardfile"
+require 'active_support/inflector'
 
 guard 'rspec', all_after_pass: false do
   watch('config/routes.rb')
